@@ -1,0 +1,13 @@
+h1{
+	color: FloralWhite;
+}
+body{
+	color: FloraWhite;
+    background-color: Black;
+}
+p, ul, li, div{
+	color: FloraLWhite;
+}
+img{
+	max-width:480px;
+}
